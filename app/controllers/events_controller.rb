@@ -1,10 +1,49 @@
 class EventsController < ApplicationController
+  
+  # find event using db
+  def find_event
+    @event = Event.find(params[:id])
+  end
+
+  # get all events using db
+  def get_all_events
+    @events = Event.all
+  end 
+
+  # get event from cache
+  def find_event_cached
+    @event = Event.find_cached(params[:id])
+  end
+
+  # get all events from cache
+  def get_all_events_cached
+    @events = Event.all_cached
+  end
+
+  # check whether to use cache or db for find
+  def check_cache_param_find
+    if params[:usecache] == "true" 
+      find_event_cached
+    else
+      find_event
+    end
+  end
+
+  # check whether to use cache or db for Event.all
+  def check_cache_param_all
+    if params[:usecache] == "true" 
+      get_all_events_cached
+    else
+      get_all_events
+    end
+  end
+
   # GET /events
   # GET /events.xml
   def index
     #@events = Event.all
-    @events = Event.all_cached
-
+    #@events = Event.all_cached
+    check_cache_param_all
 
     respond_to do |format|
       format.html # index.html.erb
@@ -17,7 +56,8 @@ class EventsController < ApplicationController
   # GET /events/1.xml
   def show
     #@event = Event.find(params[:id])
-    @event = Event.find_cached(params[:id])
+    #@event = Event.find_cached(params[:id])
+    check_cache_param_find
 
     respond_to do |format|
       format.html # show.html.erb
@@ -41,8 +81,8 @@ class EventsController < ApplicationController
   # GET /events/1/edit
   def edit
     #@event = Event.find(params[:id])
-    @event = Event.find_cached(params[:id])
-
+    #@event = Event.find_cached(params[:id])
+    check_cache_param_find
   end
 
   # POST /events
@@ -67,8 +107,8 @@ class EventsController < ApplicationController
   # PUT /events/1.xml
   def update
     #@event = Event.find(params[:id])
-    @event = Event.find_cached(params[:id])
-
+    #@event = Event.find_cached(params[:id])
+    check_cache_param_find
 
     respond_to do |format|
       if @event.update_attributes(params[:event])
