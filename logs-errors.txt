@@ -1,0 +1,100 @@
+2011-05-01T21:00:47+00:00 app[web.1]: 
+2011-05-01T21:00:47+00:00 app[web.1]: 
+2011-05-01T21:00:47+00:00 app[web.1]: Started GET "/events.xml" for 69.181.220.119 at Sun May 01 14:00:47 -0700 2011
+2011-05-01T21:00:47+00:00 app[web.1]:   Processing by EventsController#index as XML
+2011-05-01T21:00:47+00:00 app[web.1]: Completed 200 OK in 417ms (Views: 402.5ms | ActiveRecord: 6.4ms)
+2011-05-01T21:00:47+00:00 app[web.1]: 
+2011-05-01T21:00:47+00:00 app[web.1]: 
+2011-05-01T21:00:47+00:00 app[web.1]: Started GET "/events.xml" for 69.181.220.119 at Sun May 01 14:00:47 -0700 2011
+2011-05-01T21:00:47+00:00 app[web.1]:   Processing by EventsController#index as XML
+2011-05-01T21:00:48+00:00 app[web.1]: Completed 200 OK in 485ms (Views: 470.4ms | ActiveRecord: 6.2ms)
+2011-05-01T21:00:48+00:00 app[web.1]: 
+2011-05-01T21:00:48+00:00 app[web.1]: 
+2011-05-01T21:00:48+00:00 app[web.1]: Started GET "/events.xml" for 69.181.220.119 at Sun May 01 14:00:48 -0700 2011
+2011-05-01T21:00:48+00:00 app[web.1]:   Processing by EventsController#index as XML
+2011-05-01T21:00:48+00:00 heroku[router]: GET floating-light-385.heroku.com/events.xml dyno=web.1 queue=6 wait=14564ms service=3766ms bytes=106921
+2011-05-01T21:00:48+00:00 heroku[router]: GET floating-light-385.heroku.com/events.xml dyno=web.1 queue=3 wait=14564ms service=3768ms bytes=106921
+2011-05-01T21:00:48+00:00 heroku[router]: GET floating-light-385.heroku.com/events.xml dyno=web.1 queue=2 wait=13369ms service=3773ms bytes=106921
+2011-05-01T21:00:48+00:00 heroku[router]: Error H11 (Backlog too deep) -> GET floating-light-385.heroku.com/events.xml dyno=none queue=0 wait=0ms service=0ms bytes=0
+2011-05-01T21:00:48+00:00 heroku[router]: Error H11 (Backlog too deep) -> GET floating-light-385.heroku.com/events.xml dyno=none queue=0 wait=0ms service=0ms bytes=0
+2011-05-01T21:00:48+00:00 heroku[router]: Error H11 (Backlog too deep) -> GET floating-light-385.heroku.com/events.xml dyno=none queue=0 wait=0ms service=0ms bytes=0
+2011-05-01T21:00:48+00:00 heroku[router]: Error H11 (Backlog too deep) -> GET floating-light-385.heroku.com/events.xml dyno=none queue=0 wait=0ms service=0ms bytes=0
+2011-05-01T21:00:48+00:00 heroku[router]: Error H11 (Backlog too deep) -> GET floating-light-385.heroku.com/events.xml dyno=none queue=0 wait=0ms service=0ms bytes=0
+2011-05-01T21:00:48+00:00 heroku[router]: Error H11 (Backlog too deep) -> GET floating-light-385.heroku.com/events.xml dyno=none queue=0 wait=0ms service=0ms bytes=0
+2011-05-01T21:00:48+00:00 heroku[router]: Error H11 (Backlog too deep) -> GET floating-light-385.heroku.com/events.xml dyno=none queue=0 wait=0ms service=0ms bytes=0
+2011-05-01T21:00:48+00:00 heroku[router]: Error H11 (Backlog too deep) -> GET floating-light-385.heroku.com/events.xml dyno=none queue=0 wait=0ms service=0ms bytes=0
+2011-05-01T21:00:48+00:00 heroku[router]: Error H11 (Backlog too deep) -> GET floating-light-385.heroku.com/events.xml dyno=none queue=0 wait=0ms service=0ms bytes=0
+2011-05-01T21:00:48+00:00 heroku[router]: Error H11 (Backlog too deep) -> GET floating-light-385.heroku.com/events.xml dyno=none queue=0 wait=0ms service=0ms bytes=0
+2011-05-01T21:00:48+00:00 heroku[router]: Error H11 (Backlog too deep) -> GET floating-light-385.heroku.com/events.xml dyno=none queue=0 wait=0ms service=0ms bytes=0
+2011-05-01T21:00:48+00:00 heroku[router]: Error H11 (Backlog too deep) -> GET floating-light-385.heroku.com/events.xml dyno=none queue=0 wait=0ms service=0ms bytes=0
+2011-05-01T21:00:48+00:00 heroku[router]: Error H11 (Backlog too deep) -> GET floating-light-385.heroku.com/events.xml dyno=none queue=0 wait=0ms service=0ms bytes=0
+2011-05-01T21:00:48+00:00 heroku[router]: Error H11 (Backlog too deep) -> GET floating-light-385.heroku.com/events.xml dyno=none queue=0 wait=0ms service=0ms bytes=0
+2011-05-01T21:00:48+00:00 heroku[router]: Error H11 (Backlog too deep) -> GET floating-light-385.heroku.com/events.xml dyno=none queue=0 wait=0ms service=0ms bytes=0
+2011-05-01T21:00:48+00:00 heroku[router]: Error H11 (Backlog too deep) -> GET floating-light-385.heroku.com/events.xml dyno=none queue=0 wait=0ms service=0ms bytes=0
+2011-05-01T21:00:48+00:00 heroku[router]: Error H11 (Backlog too deep) -> GET floating-light-385.heroku.com/events.xml dyno=none queue=0 wait=0ms service=0ms bytes=0
+2011-05-01T21:00:48+00:00 heroku[router]: Error H11 (Backlog too deep) -> GET floating-light-385.heroku.com/events.xml dyno=none queue=0 wait=0ms service=0ms bytes=0
+2011-05-01T21:00:48+00:00 app[web.1]: Completed 200 OK in 450ms (Views: 433.0ms | ActiveRecord: 6.6ms)
+2011-05-01T21:00:48+00:00 app[web.1]: 
+2011-05-01T21:00:48+00:00 app[web.1]: 
+2011-05-01T21:00:48+00:00 app[web.1]: Started GET "/events.xml" for 69.181.220.119 at Sun May 01 14:00:48 -0700 2011
+2011-05-01T21:00:48+00:00 app[web.1]:   Processing by EventsController#index as XML
+2011-05-01T21:00:49+00:00 app[web.1]: Completed 200 OK in 408ms (Views: 393.0ms | ActiveRecord: 6.2ms)
+2011-05-01T21:00:49+00:00 app[web.1]: 
+2011-05-01T21:00:49+00:00 app[web.1]: 
+2011-05-01T21:00:49+00:00 app[web.1]: Started GET "/events.xml" for 69.181.220.119 at Sun May 01 14:00:49 -0700 2011
+2011-05-01T21:00:49+00:00 app[web.1]:   Processing by EventsController#index as XML
+2011-05-01T21:00:49+00:00 heroku[router]: GET floating-light-385.heroku.com/events.xml dyno=web.1 queue=7 wait=14617ms service=3836ms bytes=106921
+2011-05-01T21:00:49+00:00 heroku[router]: GET floating-light-385.heroku.com/events.xml dyno=web.1 queue=5 wait=11950ms service=3837ms bytes=106921
+2011-05-01T21:00:49+00:00 heroku[router]: GET floating-light-385.heroku.com/events.xml dyno=web.1 queue=2 wait=11780ms service=3835ms bytes=106921
+2011-05-01T21:00:49+00:00 heroku[router]: GET floating-light-385.heroku.com/events.xml dyno=web.1 queue=0 wait=8648ms service=3841ms bytes=106921
+2011-05-01T21:00:49+00:00 heroku[router]: Error H11 (Backlog too deep) -> GET floating-light-385.heroku.com/events.xml dyno=none queue=0 wait=0ms service=0ms bytes=0
+2011-05-01T21:00:49+00:00 app[web.1]: Completed 200 OK in 416ms (Views: 400.3ms | ActiveRecord: 6.6ms)
+2011-05-01T21:00:49+00:00 app[web.1]: 
+2011-05-01T21:00:49+00:00 app[web.1]: 
+2011-05-01T21:00:49+00:00 app[web.1]: Started GET "/events.xml" for 69.181.220.119 at Sun May 01 14:00:49 -0700 2011
+2011-05-01T21:00:49+00:00 app[web.1]:   Processing by EventsController#index as XML
+2011-05-01T21:00:49+00:00 app[web.1]: Completed 200 OK in 390ms (Views: 374.0ms | ActiveRecord: 6.4ms)
+2011-05-01T21:00:49+00:00 app[web.1]: 
+2011-05-01T21:00:49+00:00 app[web.1]: 
+2011-05-01T21:00:49+00:00 app[web.1]: Started GET "/events.xml" for 69.181.220.119 at Sun May 01 14:00:49 -0700 2011
+2011-05-01T21:00:49+00:00 app[web.1]:   Processing by EventsController#index as XML
+2011-05-01T21:00:49+00:00 heroku[router]: Error H11 (Backlog too deep) -> GET floating-light-385.heroku.com/events.xml dyno=none queue=0 wait=0ms service=0ms bytes=0
+2011-05-01T21:00:50+00:00 app[web.1]: Completed 200 OK in 350ms (Views: 333.0ms | ActiveRecord: 6.3ms)
+2011-05-01T21:00:50+00:00 app[web.1]: 
+2011-05-01T21:00:50+00:00 app[web.1]: 
+2011-05-01T21:00:50+00:00 app[web.1]: Started GET "/events.xml" for 69.181.220.119 at Sun May 01 14:00:50 -0700 2011
+2011-05-01T21:00:50+00:00 app[web.1]:   Processing by EventsController#index as XML
+2011-05-01T21:00:50+00:00 heroku[router]: GET floating-light-385.heroku.com/events.xml dyno=web.1 queue=5 wait=14767ms service=3840ms bytes=106921
+2011-05-01T21:00:50+00:00 heroku[router]: GET floating-light-385.heroku.com/events.xml dyno=web.1 queue=5 wait=14986ms service=3839ms bytes=106921
+2011-05-01T21:00:50+00:00 app[web.1]: Completed 200 OK in 406ms (Views: 299.0ms | ActiveRecord: 6.5ms)
+2011-05-01T21:00:50+00:00 app[web.1]: 
+2011-05-01T21:00:50+00:00 app[web.1]: 
+2011-05-01T21:00:50+00:00 app[web.1]: Started GET "/events.xml" for 69.181.220.119 at Sun May 01 14:00:50 -0700 2011
+2011-05-01T21:00:50+00:00 app[web.1]:   Processing by EventsController#index as XML
+2011-05-01T21:00:51+00:00 app[web.1]: Completed 200 OK in 409ms (Views: 394.2ms | ActiveRecord: 6.2ms)
+2011-05-01T21:00:51+00:00 heroku[router]: GET floating-light-385.heroku.com/events.xml dyno=web.1 queue=1 wait=14649ms service=2845ms bytes=106921
+2011-05-01T21:00:51+00:00 heroku[router]: GET floating-light-385.heroku.com/events.xml dyno=web.1 queue=3 wait=14802ms service=2854ms bytes=106921
+2011-05-01T14:00:51-07:00 heroku[logplex]: You have exceeded 500 logs/min. Please upgrade your logging addon for higher throughput.
+2011-05-01T21:03:12+00:00 app[web.1]: 
+2011-05-01T21:03:12+00:00 app[web.1]: 
+2011-05-01T21:03:12+00:00 app[web.1]: Started GET "/events" for 69.181.220.119 at Sun May 01 14:03:12 -0700 2011
+2011-05-01T21:03:12+00:00 app[web.1]:   Processing by EventsController#index as HTML
+2011-05-01T21:03:12+00:00 app[web.1]: Rendered events/index.html.erb within layouts/application (399.0ms)
+2011-05-01T21:03:12+00:00 app[web.1]: Completed 200 OK in 415ms (Views: 399.6ms | ActiveRecord: 6.3ms)
+2011-05-01T21:03:12+00:00 heroku[router]: GET floating-light-385.heroku.com/events dyno=web.1 queue=0 wait=0ms service=421ms bytes=525
+2011-05-01T21:03:12+00:00 app[web.1]: 
+2011-05-01T21:03:12+00:00 heroku[router]: GET floating-light-385.heroku.com/stylesheets/all.css dyno=web.1 queue=0 wait=0ms service=2ms bytes=922
+2011-05-01T21:03:12+00:00 app[web.1]: 
+2011-05-01T21:03:12+00:00 app[web.1]: Started GET "/stylesheets/all.css" for 69.181.220.119 at Sun May 01 14:03:12 -0700 2011
+2011-05-01T21:03:12+00:00 app[web.1]: 
+2011-05-01T21:03:12+00:00 app[web.1]: ActionController::RoutingError (No route matches "/stylesheets/all.css"):
+2011-05-01T21:03:12+00:00 app[web.1]:   
+2011-05-01T21:03:12+00:00 app[web.1]: 
+2011-05-01T21:03:12+00:00 app[web.1]: 
+2011-05-01T21:03:12+00:00 heroku[router]: GET floating-light-385.heroku.com/stylesheets/scaffold.css dyno=web.1 queue=0 wait=0ms service=2ms bytes=1165
+2011-05-01T21:03:12+00:00 heroku[router]: GET floating-light-385.heroku.com/javascripts/dragdrop.js dyno=web.1 queue=0 wait=0ms service=3ms bytes=31321
+2011-05-01T21:03:12+00:00 heroku[router]: GET floating-light-385.heroku.com/javascripts/rails.js dyno=web.1 queue=0 wait=0ms service=1ms bytes=6542
+2011-05-01T21:03:12+00:00 heroku[router]: GET floating-light-385.heroku.com/javascripts/application.js dyno=web.1 queue=0 wait=0ms service=1ms bytes=411
+2011-05-01T21:03:12+00:00 heroku[router]: GET floating-light-385.heroku.com/javascripts/effects.js dyno=web.1 queue=0 wait=0ms service=9ms bytes=38732
+2011-05-01T21:03:12+00:00 heroku[router]: GET floating-light-385.heroku.com/javascripts/controls.js dyno=web.1 queue=0 wait=0ms service=4ms bytes=35052
+2011-05-01T21:03:13+00:00 heroku[router]: GET floating-light-385.heroku.com/favicon.ico dyno=web.1 queue=0 wait=0ms service=1ms bytes=225

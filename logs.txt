@@ -1,0 +1,100 @@
+2011-05-01T20:55:43+00:00 heroku[router]: GET floating-light-385.heroku.com/events.json dyno=web.1 queue=2 wait=7209ms service=305ms bytes=58466
+2011-05-01T20:55:43+00:00 app[web.1]: 
+2011-05-01T20:55:43+00:00 app[web.1]: 
+2011-05-01T20:55:43+00:00 app[web.1]: Started GET "/events.xml" for 69.181.220.119 at Sun May 01 13:55:43 -0700 2011
+2011-05-01T20:55:43+00:00 app[web.1]:   Processing by EventsController#index as XML
+2011-05-01T20:55:43+00:00 heroku[router]: GET floating-light-385.heroku.com/events dyno=web.1 queue=0 wait=0ms service=3928ms bytes=99854
+2011-05-01T20:55:44+00:00 app[web.1]: Completed 200 OK in 1298ms (Views: 1283.0ms | ActiveRecord: 6.4ms)
+2011-05-01T20:55:44+00:00 app[web.1]: 
+2011-05-01T20:55:44+00:00 app[web.1]: 
+2011-05-01T20:55:44+00:00 app[web.1]: Started GET "/events.xml" for 69.181.220.119 at Sun May 01 13:55:44 -0700 2011
+2011-05-01T20:55:44+00:00 app[web.1]:   Processing by EventsController#index as XML
+2011-05-01T20:55:45+00:00 app[web.1]: Completed 200 OK in 630ms (Views: 585.4ms | ActiveRecord: 35.4ms)
+2011-05-01T20:55:45+00:00 app[web.1]: 
+2011-05-01T20:55:45+00:00 app[web.1]: 
+2011-05-01T20:55:45+00:00 app[web.1]: Started GET "/events.xml" for 69.181.220.119 at Sun May 01 13:55:45 -0700 2011
+2011-05-01T20:55:45+00:00 app[web.1]:   Processing by EventsController#index as XML
+2011-05-01T20:55:46+00:00 app[web.1]: Completed 200 OK in 421ms (Views: 405.8ms | ActiveRecord: 6.6ms)
+2011-05-01T20:55:46+00:00 app[web.1]: 
+2011-05-01T20:55:46+00:00 app[web.1]: 
+2011-05-01T20:55:46+00:00 app[web.1]: Started GET "/events.xml" for 69.181.220.119 at Sun May 01 13:55:46 -0700 2011
+2011-05-01T20:55:46+00:00 heroku[router]: GET floating-light-385.heroku.com/events.xml dyno=web.1 queue=0 wait=3657ms service=2377ms bytes=106921
+2011-05-01T20:55:46+00:00 app[web.1]:   Processing by EventsController#index as XML
+2011-05-01T20:55:46+00:00 app[web.1]: Completed 200 OK in 771ms (Views: 754.0ms | ActiveRecord: 7.9ms)
+2011-05-01T20:55:46+00:00 app[web.1]: 
+2011-05-01T20:55:46+00:00 app[web.1]: 
+2011-05-01T20:55:46+00:00 app[web.1]: Started GET "/events.json" for 69.181.220.119 at Sun May 01 13:55:46 -0700 2011
+2011-05-01T20:55:46+00:00 app[web.1]:   Processing by EventsController#index as JSON
+2011-05-01T20:55:47+00:00 app[web.1]: Completed 200 OK in 205ms (Views: 153.7ms | ActiveRecord: 42.6ms)
+2011-05-01T20:55:47+00:00 app[web.1]: 
+2011-05-01T20:55:47+00:00 app[web.1]: 
+2011-05-01T20:55:47+00:00 app[web.1]: Started GET "/events" for 69.181.220.119 at Sun May 01 13:55:47 -0700 2011
+2011-05-01T20:55:47+00:00 app[web.1]:   Processing by EventsController#index as HTML
+2011-05-01T20:55:47+00:00 heroku[router]: GET floating-light-385.heroku.com/events.xml dyno=web.1 queue=1 wait=3665ms service=3352ms bytes=106921
+2011-05-01T20:55:47+00:00 heroku[router]: GET floating-light-385.heroku.com/events.xml dyno=web.1 queue=0 wait=0ms service=3018ms bytes=106921
+2011-05-01T20:55:47+00:00 app[web.1]: Rendered events/index.html.erb within layouts/application (599.1ms)
+2011-05-01T20:55:47+00:00 app[web.1]: Completed 200 OK in 614ms (Views: 599.8ms | ActiveRecord: 6.5ms)
+2011-05-01T20:55:47+00:00 app[web.1]: 
+2011-05-01T20:55:47+00:00 app[web.1]: 
+2011-05-01T20:55:47+00:00 app[web.1]: Started GET "/events.json" for 69.181.220.119 at Sun May 01 13:55:47 -0700 2011
+2011-05-01T20:55:47+00:00 app[web.1]:   Processing by EventsController#index as JSON
+2011-05-01T20:55:47+00:00 app[web.1]: Completed 200 OK in 310ms (Views: 259.1ms | ActiveRecord: 39.3ms)
+2011-05-01T20:55:47+00:00 app[web.1]: 
+2011-05-01T20:55:47+00:00 app[web.1]: 
+2011-05-01T20:55:47+00:00 app[web.1]: Started GET "/events" for 69.181.220.119 at Sun May 01 13:55:47 -0700 2011
+2011-05-01T20:55:47+00:00 app[web.1]:   Processing by EventsController#index as HTML
+2011-05-01T20:55:47+00:00 heroku[router]: GET floating-light-385.heroku.com/events.json dyno=web.1 queue=0 wait=0ms service=2118ms bytes=58466
+2011-05-01T20:55:48+00:00 app[web.1]: Rendered events/index.html.erb within layouts/application (788.1ms)
+2011-05-01T20:55:48+00:00 app[web.1]: Completed 200 OK in 811ms (Views: 788.7ms | ActiveRecord: 7.0ms)
+2011-05-01T20:55:48+00:00 heroku[router]: GET floating-light-385.heroku.com/events dyno=web.1 queue=0 wait=0ms service=2552ms bytes=99854
+2011-05-01T20:55:48+00:00 heroku[router]: GET floating-light-385.heroku.com/events.json dyno=web.1 queue=0 wait=0ms service=1812ms bytes=58466
+2011-05-01T20:55:48+00:00 heroku[router]: GET floating-light-385.heroku.com/events dyno=web.1 queue=1 wait=5908ms service=1768ms bytes=99854
+2011-05-01T20:55:48+00:00 app[web.1]: 
+2011-05-01T20:55:48+00:00 app[web.1]: 
+2011-05-01T20:55:48+00:00 app[web.1]: Started GET "/events.json" for 69.181.220.119 at Sun May 01 13:55:48 -0700 2011
+2011-05-01T20:55:48+00:00 app[web.1]:   Processing by EventsController#index as JSON
+2011-05-01T20:55:49+00:00 app[web.1]: Completed 200 OK in 444ms (Views: 419.6ms | ActiveRecord: 15.4ms)
+2011-05-01T20:55:49+00:00 heroku[router]: GET floating-light-385.heroku.com/events.json dyno=web.1 queue=2 wait=2957ms service=458ms bytes=58466
+2011-05-01T20:55:49+00:00 app[web.1]: 
+2011-05-01T20:55:49+00:00 app[web.1]: 
+2011-05-01T20:55:49+00:00 app[web.1]: Started GET "/events.xml" for 69.181.220.119 at Sun May 01 13:55:49 -0700 2011
+2011-05-01T20:55:49+00:00 app[web.1]:   Processing by EventsController#index as XML
+2011-05-01T20:55:49+00:00 app[web.1]: Completed 200 OK in 564ms (Views: 549.0ms | ActiveRecord: 6.6ms)
+2011-05-01T20:55:49+00:00 app[web.1]: 
+2011-05-01T20:55:49+00:00 app[web.1]: 
+2011-05-01T20:55:49+00:00 app[web.1]: Started GET "/events.json" for 69.181.220.119 at Sun May 01 13:55:49 -0700 2011
+2011-05-01T20:55:49+00:00 app[web.1]:   Processing by EventsController#index as JSON
+2011-05-01T20:55:49+00:00 app[web.1]: Completed 200 OK in 137ms (Views: 121.8ms | ActiveRecord: 6.7ms)
+2011-05-01T20:55:49+00:00 heroku[router]: GET floating-light-385.heroku.com/events.xml dyno=web.1 queue=1 wait=1920ms service=708ms bytes=106921
+2011-05-01T20:55:49+00:00 app[web.1]: 
+2011-05-01T20:55:49+00:00 app[web.1]: 
+2011-05-01T20:55:49+00:00 app[web.1]: Started GET "/events.xml" for 69.181.220.119 at Sun May 01 13:55:49 -0700 2011
+2011-05-01T20:55:49+00:00 heroku[router]: GET floating-light-385.heroku.com/events.json dyno=web.1 queue=0 wait=0ms service=334ms bytes=58466
+2011-05-01T20:55:49+00:00 app[web.1]:   Processing by EventsController#index as XML
+2011-05-01T20:55:50+00:00 app[web.1]: Completed 200 OK in 388ms (Views: 373.3ms | ActiveRecord: 6.5ms)
+2011-05-01T20:55:50+00:00 app[web.1]: 
+2011-05-01T20:55:50+00:00 app[web.1]: 
+2011-05-01T20:55:50+00:00 app[web.1]: Started GET "/events.json" for 69.181.220.119 at Sun May 01 13:55:50 -0700 2011
+2011-05-01T20:55:50+00:00 app[web.1]:   Processing by EventsController#index as JSON
+2011-05-01T20:55:50+00:00 app[web.1]: Completed 200 OK in 241ms (Views: 222.8ms | ActiveRecord: 7.5ms)
+2011-05-01T20:55:50+00:00 app[web.1]: 
+2011-05-01T20:55:50+00:00 app[web.1]: 
+2011-05-01T20:55:50+00:00 app[web.1]: Started GET "/events.xml" for 69.181.220.119 at Sun May 01 13:55:50 -0700 2011
+2011-05-01T20:55:50+00:00 app[web.1]:   Processing by EventsController#index as XML
+2011-05-01T20:55:51+00:00 heroku[router]: GET floating-light-385.heroku.com/events.xml dyno=web.1 queue=0 wait=1385ms service=1482ms bytes=106921
+2011-05-01T20:55:51+00:00 heroku[router]: GET floating-light-385.heroku.com/events.json dyno=web.1 queue=1 wait=328ms service=1486ms bytes=58466
+2011-05-01T20:55:51+00:00 app[web.1]:   Processing by EventsController#index as XML
+2011-05-01T20:55:52+00:00 app[web.1]: Completed 200 OK in 566ms (Views: 548.4ms | ActiveRecord: 9.0ms)
+2011-05-01T20:55:52+00:00 app[web.1]: 
+2011-05-01T20:55:52+00:00 app[web.1]: 
+2011-05-01T20:55:52+00:00 app[web.1]: Started GET "/events.xml" for 69.181.220.119 at Sun May 01 13:55:52 -0700 2011
+2011-05-01T20:55:52+00:00 app[web.1]:   Processing by EventsController#index as XML
+2011-05-01T20:55:52+00:00 app[web.1]: Completed 200 OK in 409ms (Views: 393.7ms | ActiveRecord: 6.6ms)
+2011-05-01T20:55:52+00:00 app[web.1]: 
+2011-05-01T20:55:52+00:00 app[web.1]: 
+2011-05-01T20:55:52+00:00 app[web.1]: Started GET "/events.xml" for 69.181.220.119 at Sun May 01 13:55:52 -0700 2011
+2011-05-01T20:55:52+00:00 app[web.1]:   Processing by EventsController#index as XML
+2011-05-01T20:55:52+00:00 heroku[router]: GET floating-light-385.heroku.com/events.xml dyno=web.1 queue=0 wait=1046ms service=985ms bytes=106921
+2011-05-01T20:55:52+00:00 app[web.1]: Completed 200 OK in 412ms (Views: 395.2ms | ActiveRecord: 6.6ms)
+2011-05-01T20:55:52+00:00 heroku[router]: GET floating-light-385.heroku.com/events.xml dyno=web.1 queue=0 wait=1716ms service=1395ms bytes=106921
+2011-05-01T20:55:52+00:00 heroku[router]: GET floating-light-385.heroku.com/events.xml dyno=web.1 queue=0 wait=0ms service=734ms bytes=106921

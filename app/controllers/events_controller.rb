@@ -2,7 +2,9 @@ class EventsController < ApplicationController
   # GET /events
   # GET /events.xml
   def index
-    @events = Event.all
+    #@events = Event.all
+    @events = Event.all_cached
+
 
     respond_to do |format|
       format.html # index.html.erb
@@ -14,7 +16,8 @@ class EventsController < ApplicationController
   # GET /events/1
   # GET /events/1.xml
   def show
-    @event = Event.find(params[:id])
+    #@event = Event.find(params[:id])
+    @event = Event.find_cached(params[:id])
 
     respond_to do |format|
       format.html # show.html.erb
@@ -37,7 +40,9 @@ class EventsController < ApplicationController
 
   # GET /events/1/edit
   def edit
-    @event = Event.find(params[:id])
+    #@event = Event.find(params[:id])
+    @event = Event.find_cached(params[:id])
+
   end
 
   # POST /events
@@ -61,7 +66,9 @@ class EventsController < ApplicationController
   # PUT /events/1
   # PUT /events/1.xml
   def update
-    @event = Event.find(params[:id])
+    #@event = Event.find(params[:id])
+    @event = Event.find_cached(params[:id])
+
 
     respond_to do |format|
       if @event.update_attributes(params[:event])
