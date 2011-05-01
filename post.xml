@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<event>
+  <action>new action</action>
+  <category>new cat</category>
+  <email>test@test.com</email>
+  <ip>0.0.0.1</ip>
+  <label>testlabel</label>
+  <value>5</value>
+</event>
