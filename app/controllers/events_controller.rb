@@ -41,8 +41,6 @@ class EventsController < ApplicationController
   # GET /events
   # GET /events.xml
   def index
-    #@events = Event.all
-    #@events = Event.all_cached
     check_cache_param_all
 
     respond_to do |format|
@@ -55,8 +53,6 @@ class EventsController < ApplicationController
   # GET /events/1
   # GET /events/1.xml
   def show
-    #@event = Event.find(params[:id])
-    #@event = Event.find_cached(params[:id])
     check_cache_param_find
 
     respond_to do |format|
@@ -80,8 +76,6 @@ class EventsController < ApplicationController
 
   # GET /events/1/edit
   def edit
-    #@event = Event.find(params[:id])
-    #@event = Event.find_cached(params[:id])
     check_cache_param_find
   end
 
@@ -106,8 +100,6 @@ class EventsController < ApplicationController
   # PUT /events/1
   # PUT /events/1.xml
   def update
-    #@event = Event.find(params[:id])
-    #@event = Event.find_cached(params[:id])
     check_cache_param_find
 
     respond_to do |format|

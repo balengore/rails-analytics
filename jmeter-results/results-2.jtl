@@ -1,0 +1,1804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="223" lt="223" ts="1304290040220" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="264" lt="264" ts="1304290040204" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="258" lt="258" ts="1304290040238" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="249" lt="249" ts="1304290040249" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="270" lt="270" ts="1304290040227" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="231" lt="231" ts="1304290040283" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="256" lt="256" ts="1304290040261" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="218" lt="218" ts="1304290040310" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="237" lt="237" ts="1304290040301" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="247" lt="247" ts="1304290040321" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-11" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="226" lt="226" ts="1304290040343" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-12" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="230" lt="230" ts="1304290040341" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-13" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="138" lt="138" ts="1304290040446" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-23" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="367" lt="367" ts="1304290040371" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-14" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="378" lt="378" ts="1304290040362" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-15" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="432" lt="432" ts="1304290040383" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-17" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="332" lt="332" ts="1304290040489" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-27" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="352" lt="352" ts="1304290040472" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="432" lt="432" ts="1304290040392" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-16" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="296" lt="296" ts="1304290040530" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="559" lt="559" ts="1304290040274" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="322" lt="322" ts="1304290040514" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-29" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="338" lt="338" ts="1304290040500" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="372" lt="372" ts="1304290040468" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-22" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="407" lt="407" ts="1304290040500" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="461" lt="461" ts="1304290040449" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="509" lt="509" ts="1304290040403" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-19" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="462" lt="462" ts="1304290040451" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-20" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="404" lt="404" ts="1304290040508" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-24" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="385" lt="385" ts="1304290040532" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-26" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="268" lt="268" ts="1304290040658" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-43" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="371" lt="371" ts="1304290040556" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-33" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="257" lt="257" ts="1304290040702" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-42" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="390" lt="390" ts="1304290040570" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-12" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="327" lt="327" ts="1304290040638" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-41" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="496" lt="495" ts="1304290040471" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-25" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="542" lt="542" ts="1304290040428" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-21" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="552" lt="552" ts="1304290040421" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-18" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="235" lt="235" ts="1304290040743" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-15" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="384" lt="384" ts="1304290040596" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-37" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="167" lt="167" ts="1304290040840" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="189" lt="189" ts="1304290040819" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-17" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="477" lt="477" ts="1304290040540" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="329" lt="329" ts="1304290040684" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-40" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="354" lt="354" ts="1304290040663" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-38" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="481" lt="481" ts="1304290040535" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-31" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="373" lt="373" ts="1304290040642" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-36" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="413" lt="413" ts="1304290040601" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-32" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="416" lt="415" ts="1304290040618" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-39" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="292" lt="292" ts="1304290040744" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-46" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="245" lt="245" ts="1304290040792" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-55" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="213" lt="213" ts="1304290040825" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-16" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="450" lt="450" ts="1304290040586" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-23" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="130" lt="130" ts="1304290040914" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-20" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="220" lt="220" ts="1304290040825" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="535" lt="535" ts="1304290040515" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="250" lt="250" ts="1304290040909" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="327" lt="327" ts="1304290040835" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="415" lt="415" ts="1304290040748" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-51" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="545" lt="545" ts="1304290040621" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-34" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="206" lt="206" ts="1304290040962" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-42" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="187" lt="187" ts="1304290040982" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-37" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="599" lt="599" ts="1304290040573" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-13" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="390" lt="390" ts="1304290040786" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-50" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="704" lt="704" ts="1304290040499" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="289" lt="289" ts="1304290040917" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-65" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="393" lt="393" ts="1304290040812" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-57" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="291" lt="290" ts="1304290040914" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-19" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="266" lt="266" ts="1304290040968" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-25" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="429" lt="429" ts="1304290040805" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-52" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="692" lt="692" ts="1304290040550" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-28" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="538" lt="538" ts="1304290040708" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-47" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="280" lt="280" ts="1304290040967" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-41" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="266" lt="266" ts="1304290040980" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-15" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="359" lt="358" ts="1304290040889" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-61" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="432" lt="432" ts="1304290040829" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-54" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="692" lt="692" ts="1304290040570" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-11" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="340" lt="340" ts="1304290040929" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-64" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="254" lt="254" ts="1304290041024" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-73" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="354" lt="354" ts="1304290040928" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-43" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="363" lt="363" ts="1304290040919" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-26" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="388" lt="388" ts="1304290040894" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-63" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="454" lt="454" ts="1304290040827" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="241" lt="241" ts="1304290041038" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-46" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="554" lt="554" ts="1304290040740" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-14" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="432" lt="432" ts="1304290040866" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-58" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="262" lt="262" ts="1304290041040" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-16" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="305" lt="305" ts="1304290040975" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-18" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="344" lt="344" ts="1304290040964" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-12" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="355" lt="355" ts="1304290040954" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-67" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="319" lt="319" ts="1304290040989" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-70" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="396" lt="396" ts="1304290040912" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="270" lt="270" ts="1304290041045" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-20" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="602" lt="602" ts="1304290040723" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-44" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="284" lt="284" ts="1304290041043" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-75" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="159" lt="159" ts="1304290041172" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-90" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="306" lt="306" ts="1304290041041" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-23" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="327" lt="327" ts="1304290041023" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-17" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="311" lt="310" ts="1304290041026" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-38" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="338" lt="338" ts="1304290041019" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-72" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="187" lt="187" ts="1304290041171" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-37" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="339" lt="339" ts="1304290041025" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-40" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="521" lt="521" ts="1304290040842" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-22" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="393" lt="393" ts="1304290040968" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-68" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="483" lt="483" ts="1304290040930" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-33" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="365" lt="365" ts="1304290041048" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-76" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="256" lt="255" ts="1304290041168" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-89" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="175" lt="175" ts="1304290041249" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-47" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="450" lt="450" ts="1304290040976" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-69" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="748" lt="748" ts="1304290040764" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-48" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="478" lt="478" ts="1304290041036" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-39" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="403" lt="403" ts="1304290041111" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-84" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="367" lt="367" ts="1304290041170" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-42" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="249" lt="249" ts="1304290041289" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-26" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="503" lt="503" ts="1304290041038" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-55" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="519" lt="519" ts="1304290041028" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-32" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="485" lt="485" ts="1304290041063" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-79" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="514" lt="514" ts="1304290041052" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="276" lt="276" ts="1304290041293" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-100" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="801" lt="801" ts="1304290040770" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-53" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="276" lt="276" ts="1304290041312" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-67" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="337" lt="337" ts="1304290041252" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-41" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="413" lt="413" ts="1304290041178" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-50" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="440" lt="440" ts="1304290041163" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="688" lt="687" ts="1304290040916" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-24" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="436" lt="436" ts="1304290041166" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-51" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="560" lt="560" ts="1304290041051" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-77" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="189" lt="189" ts="1304290041425" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-89" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="369" lt="369" ts="1304290041263" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-54" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="425" lt="425" ts="1304290041210" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-92" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="683" lt="683" ts="1304290040948" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-66" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="548" lt="548" ts="1304290041091" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-80" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="385" lt="385" ts="1304290041256" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-97" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="571" lt="571" ts="1304290041083" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-81" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="679" lt="679" ts="1304290040972" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-21" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="675" lt="675" ts="1304290040999" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-71" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="470" lt="470" ts="1304290041207" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-65" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="569" lt="569" ts="1304290041109" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-82" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="383" lt="383" ts="1304290041297" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-14" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="256" lt="256" ts="1304290041426" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-47" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="453" lt="453" ts="1304290041236" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-52" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="135" lt="135" ts="1304290041555" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-79" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="562" lt="562" ts="1304290041130" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-85" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="1130" lt="1129" ts="1304290040576" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-35" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="680" lt="680" ts="1304290041027" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-31" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="500" lt="500" ts="1304290041209" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-57" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="499" lt="499" ts="1304290041210" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-19" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="459" lt="459" ts="1304290041255" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-61" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="454" lt="454" ts="1304290041263" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-11" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="472" lt="472" ts="1304290041250" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-96" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="449" lt="449" ts="1304290041286" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-73" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="451" lt="450" ts="1304290041286" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-43" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="451" lt="451" ts="1304290041289" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-63" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="536" lt="536" ts="1304290041207" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="519" lt="519" ts="1304290041228" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-95" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="139" lt="139" ts="1304290041611" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-51" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="424" lt="424" ts="1304290041329" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-44" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="236" lt="236" ts="1304290041521" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-84" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="544" lt="544" ts="1304290041213" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-93" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="648" lt="648" ts="1304290041113" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-83" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="526" lt="526" ts="1304290041300" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-58" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="193" lt="193" ts="1304290041634" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-54" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="189" lt="188" ts="1304290041638" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-66" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="188" lt="188" ts="1304290041640" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-80" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="475" lt="475" ts="1304290041366" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-40" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="332" lt="332" ts="1304290041514" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-48" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="516" lt="515" ts="1304290041333" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-90" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="187" lt="187" ts="1304290041676" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-71" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="187" lt="187" ts="1304290041678" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-65" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="495" lt="495" ts="1304290041371" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-68" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="176" lt="176" ts="1304290041694" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-85" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="338" lt="338" ts="1304290041543" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-55" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="366" lt="366" ts="1304290041517" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-39" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="459" lt="459" ts="1304290041427" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-69" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="142" lt="142" ts="1304290041756" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-44" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="483" lt="483" ts="1304290041415" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-76" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="211" lt="211" ts="1304290041690" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-52" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="258" lt="258" ts="1304290041657" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-21" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="345" lt="345" ts="1304290041572" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-53" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="346" lt="346" ts="1304290041571" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-100" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="198" lt="198" ts="1304290041723" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-96" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="186" lt="186" ts="1304290041739" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-73" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="316" lt="316" ts="1304290041610" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-24" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="345" lt="345" ts="1304290041590" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-67" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="341" lt="341" ts="1304290041596" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-50" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="305" lt="305" ts="1304290041637" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-92" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="192" lt="192" ts="1304290041749" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-95" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="118" lt="118" ts="1304290041828" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-58" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="333" lt="333" ts="1304290041621" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-89" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="248" lt="248" ts="1304290041708" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-35" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="126" lt="126" ts="1304290041831" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-66" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="114" lt="114" ts="1304290041848" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-48" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="286" lt="286" ts="1304290041679" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-82" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="253" lt="253" ts="1304290041715" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-61" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="109" lt="109" ts="1304290041867" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-68" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="212" lt="212" ts="1304290041765" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-83" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="266" lt="266" ts="1304290041709" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-31" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="116" lt="116" ts="1304290041872" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-85" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="246" lt="246" ts="1304290041742" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-63" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="230" lt="230" ts="1304290041763" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-93" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="136" lt="136" ts="1304290041865" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-71" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="113" lt="113" ts="1304290041890" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-69" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="111" lt="111" ts="1304290041900" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-76" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="115" lt="115" ts="1304290041919" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-100" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="1464" lt="1464" ts="1304290040579" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-30" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="121" lt="121" ts="1304290041923" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-96" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="111" lt="111" ts="1304290041945" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-95" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="110" lt="110" ts="1304290041957" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-35" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="113" lt="113" ts="1304290041966" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-82" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="949" lt="949" ts="1304290041147" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-87" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="123" lt="123" ts="1304290041978" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-83" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="959" lt="959" ts="1304290041152" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-86" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="853" lt="853" ts="1304290041268" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-99" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="816" lt="816" ts="1304290041314" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-70" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="820" lt="820" ts="1304290041313" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-18" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="807" lt="807" ts="1304290041331" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-75" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="921" lt="921" ts="1304290041230" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-94" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="795" lt="795" ts="1304290041359" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-72" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="788" lt="787" ts="1304290041369" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-22" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="507" lt="507" ts="1304290041656" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-81" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="340" lt="340" ts="1304290041851" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-90" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="146" lt="146" ts="1304290042045" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-30" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="480" lt="480" ts="1304290041710" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-57" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="106" lt="106" ts="1304290042099" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-87" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="105" lt="105" ts="1304290042113" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-86" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="162" lt="162" ts="1304290042123" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-99" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="159" lt="159" ts="1304290042132" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-70" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="141" lt="141" ts="1304290042152" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-94" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="159" lt="159" ts="1304290042140" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-75" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="140" lt="140" ts="1304290042164" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-81" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="112" lt="112" ts="1304290042196" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-30" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="106" lt="106" ts="1304290042207" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-87" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="105" lt="105" ts="1304290042221" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-86" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="111" lt="111" ts="1304290042287" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-99" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="112" lt="112" ts="1304290042295" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-94" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="2037" lt="2037" ts="1304290040518" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="116" lt="116" ts="1304290042556" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="2658" lt="2658" ts="1304290040823" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-27" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="3567" lt="3567" ts="1304290040837" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-29" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="115" lt="115" ts="1304290044411" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-29" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="4312" lt="4312" ts="1304290040728" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-49" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="110" lt="110" ts="1304290045046" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-49" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="106" lt="106" ts="1304290045159" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-49" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="4770" lt="4770" ts="1304290040852" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-59" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="109" lt="109" ts="1304290045626" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-59" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="104" lt="104" ts="1304290045740" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-59" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="5632" lt="5632" ts="1304290040845" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-56" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="110" lt="110" ts="1304290046482" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-56" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="113" lt="113" ts="1304290046596" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-56" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="6291" lt="6291" ts="1304290040886" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-60" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="114" lt="114" ts="1304290047186" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-60" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="109" lt="109" ts="1304290047304" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-60" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="6426" lt="6426" ts="1304290041022" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="6680" lt="6680" ts="1304290040906" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-62" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="6632" lt="6632" ts="1304290041030" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-36" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="105" lt="105" ts="1304290047588" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-62" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="6768" lt="6768" ts="1304290041027" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-74" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="124" lt="124" ts="1304290047698" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-62" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="111" lt="111" ts="1304290047801" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-74" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="108" lt="108" ts="1304290047913" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-74" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="6967" lt="6967" ts="1304290041171" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-88" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="136" lt="136" ts="1304290048142" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-88" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="115" lt="115" ts="1304290048281" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-88" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="7339" lt="7339" ts="1304290041068" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-78" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="7275" lt="7275" ts="1304290041235" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-25" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="119" lt="119" ts="1304290048412" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-78" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="112" lt="112" ts="1304290048539" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-78" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="7514" lt="7514" ts="1304290041244" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-28" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="123" lt="123" ts="1304290048761" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-28" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="7949" lt="7949" ts="1304290041176" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-34" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="114" lt="114" ts="1304290049129" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-34" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="8270" lt="8269" ts="1304290041293" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-46" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="8557" lt="8557" ts="1304290041192" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-91" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="113" lt="113" ts="1304290049760" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-91" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="113" lt="113" ts="1304290049877" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-91" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="8672" lt="8672" ts="1304290041356" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-38" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="9000" lt="9000" ts="1304290041270" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-64" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="9116" lt="9116" ts="1304290041273" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-98" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="9045" lt="9045" ts="1304290041414" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-33" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="106" lt="106" ts="1304290050392" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-98" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="8973" lt="8973" ts="1304290041554" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-32" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="8986" lt="8986" ts="1304290041612" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-77" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="112" lt="112" ts="1304290050501" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-98" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="9123" lt="9123" ts="1304290041645" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-97" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="110" lt="110" ts="1304290050771" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-97" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="9358" lt="9358" ts="1304290041691" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-79" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="9581" lt="9581" ts="1304290041759" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-84" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="9812" lt="9812" ts="1304290041834" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-80" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="10267" lt="10267" ts="1304290041918" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-53" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="11171" lt="11171" ts="1304290041173" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-13" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="10661" lt="10661" ts="1304290041943" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-92" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="11320" lt="11320" ts="1304290041996" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-93" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="11852" lt="11851" ts="1304290042159" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-72" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="11135" lt="11135" ts="1304290043485" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-27" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="14725" lt="14725" ts="1304290040685" s="true" lb="All events" rc="200" rm="OK" tn="Thread Group 1-45" dt="text" by="1221" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="133" lt="133" ts="1304290055412" s="true" lb="events.json" rc="200" rm="OK" tn="Thread Group 1-45" dt="text" by="199" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.json?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="105" lt="105" ts="1304290055547" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-45" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="8054" lt="8054" ts="1304290047664" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-36" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="6262" lt="6262" ts="1304290050273" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-64" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+<httpSample t="6761" lt="6761" ts="1304290050602" s="true" lb="events.xml" rc="200" rm="OK" tn="Thread Group 1-77" dt="text" by="381" sc="1" ec="0">
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://floating-light-385.heroku.com/events/1.xml?usecache=true</java.net.URL>
+</httpSample>
+
+</testResults>

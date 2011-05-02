@@ -1,0 +1,141 @@
+
+2011-05-02T04:43:19+00:00 app[web.1]: 
+2011-05-02T04:43:19+00:00 app[web.1]: 
+2011-05-02T04:43:19+00:00 app[web.1]: Started GET "/events/15?usecache=true" for 69.181.220.119 at Sun May 01 21:43:19 -0700 2011
+2011-05-02T04:43:19+00:00 app[web.1]:   Processing by EventsController#show as HTML
+2011-05-02T04:43:19+00:00 app[web.1]:   Parameters: {"id"=>"15", "usecache"=>"true"}
+2011-05-02T04:43:19+00:00 app[web.1]: Dalli/SASL authenticating as app517157%40heroku.com
+2011-05-02T04:43:19+00:00 heroku[router]: GET floating-light-385.heroku.com/events/15 dyno=web.1 queue=0 wait=0ms service=11ms bytes=1775
+2011-05-02T04:43:19+00:00 app[web.1]: Dalli/SASL: Authenticated
+2011-05-02T04:43:19+00:00 app[web.1]: Rendered events/show.html.erb within layouts/application (1.9ms)
+2011-05-02T04:43:19+00:00 app[web.1]: Completed 200 OK in 9ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+2011-05-02T04:43:19+00:00 app[web.1]: 
+2011-05-02T04:43:19+00:00 app[web.1]: 
+2011-05-02T04:43:19+00:00 app[web.1]: Started GET "/events/20.json?usecache=true" for 69.181.220.119 at Sun May 01 21:43:19 -0700 2011
+2011-05-02T04:43:19+00:00 app[web.1]:   Processing by EventsController#show as JSON
+2011-05-02T04:43:19+00:00 app[web.1]:   Parameters: {"id"=>"20", "usecache"=>"true"}
+2011-05-02T04:43:19+00:00 app[web.1]: Completed 200 OK in 2ms (Views: 0.8ms | ActiveRecord: 0.0ms)
+2011-05-02T04:43:19+00:00 heroku[router]: GET floating-light-385.heroku.com/events/20.json dyno=web.1 queue=0 wait=0ms service=4ms bytes=522
+2011-05-02T04:43:19+00:00 app[web.1]: 
+2011-05-02T04:43:19+00:00 app[web.1]: 
+2011-05-02T04:43:19+00:00 app[web.1]: Started GET "/events/15?usecache=true" for 69.181.220.119 at Sun May 01 21:43:19 -0700 2011
+2011-05-02T04:43:19+00:00 app[web.1]:   Processing by EventsController#show as HTML
+2011-05-02T04:43:19+00:00 app[web.1]:   Parameters: {"id"=>"15", "usecache"=>"true"}
+2011-05-02T04:43:19+00:00 heroku[router]: GET floating-light-385.heroku.com/events/15 dyno=web.1 queue=0 wait=0ms service=6ms bytes=1775
+2011-05-02T04:43:19+00:00 app[web.1]: Rendered events/show.html.erb within layouts/application (2.2ms)
+2011-05-02T04:43:19+00:00 app[web.1]: Completed 200 OK in 4ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+2011-05-02T04:43:19+00:00 app[web.1]: 
+2011-05-02T04:43:19+00:00 app[web.1]: 
+2011-05-02T04:43:19+00:00 app[web.1]: Started GET "/events/30.xml?usecache=true" for 69.181.220.119 at Sun May 01 21:43:19 -0700 2011
+2011-05-02T04:43:19+00:00 app[web.1]:   Processing by EventsController#show as XML
+2011-05-02T04:43:19+00:00 app[web.1]:   Parameters: {"id"=>"30", "usecache"=>"true"}
+2011-05-02T04:43:19+00:00 heroku[router]: GET floating-light-385.heroku.com/events/30.xml dyno=web.1 queue=0 wait=0ms service=5ms bytes=711
+2011-05-02T04:43:19+00:00 app[web.1]: Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms)
+2011-05-02T04:43:19+00:00 app[web.1]: 
+2011-05-02T04:43:19+00:00 app[web.1]: 
+2011-05-02T04:43:19+00:00 app[web.1]: Started GET "/events/20.json?usecache=true" for 69.181.220.119 at Sun May 01 21:43:19 -0700 2011
+2011-05-02T04:43:19+00:00 app[web.1]:   Processing by EventsController#show as JSON
+2011-05-02T04:43:19+00:00 app[web.1]:   Parameters: {"id"=>"20", "usecache"=>"true"}
+2011-05-02T04:43:19+00:00 app[web.1]: Completed 200 OK in 2ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+2011-05-02T04:43:19+00:00 heroku[router]: GET floating-light-385.heroku.com/events/20.json dyno=web.1 queue=0 wait=0ms service=4ms bytes=522
+2011-05-02T04:43:19+00:00 app[web.1]: 
+2011-05-02T04:43:19+00:00 app[web.1]: 
+2011-05-02T04:43:19+00:00 app[web.1]: Started GET "/events.json?usecache=true" for 69.181.220.119 at Sun May 01 21:43:19 -0700 2011
+2011-05-02T04:43:19+00:00 app[web.1]:   Processing by EventsController#index as JSON
+2011-05-02T04:43:19+00:00 app[web.1]:   Parameters: {"usecache"=>"true"}
+2011-05-02T04:43:19+00:00 app[web.1]: Completed 200 OK in 120ms (Views: 116.4ms | ActiveRecord: 0.0ms)
+2011-05-02T04:43:19+00:00 app[web.1]: 
+2011-05-02T04:43:19+00:00 app[web.1]: 
+2011-05-02T04:43:19+00:00 app[web.1]: Started GET "/events/15?usecache=true" for 69.181.220.119 at Sun May 01 21:43:19 -0700 2011
+2011-05-02T04:43:19+00:00 app[web.1]:   Processing by EventsController#show as HTML
+2011-05-02T04:43:19+00:00 app[web.1]:   Parameters: {"id"=>"15", "usecache"=>"true"}
+2011-05-02T04:43:19+00:00 heroku[router]: GET floating-light-385.heroku.com/events/30.xml dyno=web.1 queue=0 wait=0ms service=14ms bytes=711
+2011-05-02T04:43:19+00:00 app[web.1]: Rendered events/show.html.erb within layouts/application (1.7ms)
+2011-05-02T04:43:19+00:00 app[web.1]: Completed 200 OK in 3ms (Views: 2.3ms | ActiveRecord: 0.0ms)
+2011-05-02T04:43:19+00:00 app[web.1]: 
+2011-05-02T04:43:19+00:00 heroku[router]: GET floating-light-385.heroku.com/events.json dyno=web.1 queue=0 wait=0ms service=133ms bytes=58466
+2011-05-02T04:43:19+00:00 app[web.1]: 
+2011-05-02T04:43:19+00:00 app[web.1]: Started GET "/events/30.xml?usecache=true" for 69.181.220.119 at Sun May 01 21:43:19 -0700 2011
+2011-05-02T04:43:19+00:00 app[web.1]:   Processing by EventsController#show as XML
+2011-05-02T04:43:19+00:00 app[web.1]:   Parameters: {"id"=>"30", "usecache"=>"true"}
+2011-05-02T04:43:19+00:00 heroku[router]: GET floating-light-385.heroku.com/events/15 dyno=web.1 queue=0 wait=0ms service=128ms bytes=1775
+2011-05-02T04:43:19+00:00 app[web.1]: Completed 200 OK in 2ms (Views: 1.3ms | ActiveRecord: 0.0ms)
+2011-05-02T04:43:19+00:00 app[web.1]: 
+2011-05-02T04:43:19+00:00 app[web.1]: 
+2011-05-02T04:43:19+00:00 app[web.1]: Started GET "/events.json?usecache=true" for 69.181.220.119 at Sun May 01 21:43:19 -0700 2011
+2011-05-02T04:43:19+00:00 app[web.1]:   Processing by EventsController#index as JSON
+2011-05-02T04:43:19+00:00 app[web.1]:   Parameters: {"usecache"=>"true"}
+2011-05-02T04:43:20+00:00 app[web.1]: Completed 200 OK in 180ms (Views: 176.6ms | ActiveRecord: 0.0ms)
+2011-05-02T04:43:20+00:00 heroku[router]: GET floating-light-385.heroku.com/events/15 dyno=web.1 queue=0 wait=0ms service=181ms bytes=1775
+2011-05-02T04:43:20+00:00 app[web.1]: 
+2011-05-02T04:43:20+00:00 app[web.1]: 
+2011-05-02T04:43:20+00:00 app[web.1]: Started GET "/events/20.json?usecache=true" for 69.181.220.119 at Sun May 01 21:43:20 -0700 2011
+2011-05-02T04:43:20+00:00 heroku[router]: GET floating-light-385.heroku.com/events.json dyno=web.1 queue=0 wait=0ms service=191ms bytes=58466
+2011-05-02T04:43:20+00:00 heroku[router]: GET floating-light-385.heroku.com/events/20.json dyno=web.1 queue=0 wait=0ms service=187ms bytes=522
+2011-05-02T04:43:20+00:00 app[web.1]:   Processing by EventsController#show as JSON
+2011-05-02T04:43:20+00:00 app[web.1]:   Parameters: {"id"=>"20", "usecache"=>"true"}
+2011-05-02T04:43:20+00:00 app[web.1]: Completed 200 OK in 2ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+2011-05-02T04:43:20+00:00 app[web.1]: 
+2011-05-02T04:43:20+00:00 app[web.1]: 
+2011-05-02T04:43:20+00:00 app[web.1]: Started GET "/events/15?usecache=true" for 69.181.220.119 at Sun May 01 21:43:20 -0700 2011
+2011-05-02T04:43:20+00:00 app[web.1]:   Processing by EventsController#show as HTML
+2011-05-02T04:43:20+00:00 app[web.1]: Rendered events/show.html.erb within layouts/application (1.8ms)
+2011-05-02T04:43:20+00:00 heroku[router]: GET floating-light-385.heroku.com/events/15 dyno=web.1 queue=0 wait=0ms service=9ms bytes=1775
+2011-05-02T04:43:20+00:00 app[web.1]: 
+2011-05-02T04:43:20+00:00 app[web.1]:   Processing by EventsController#show as HTML
+2011-05-02T04:43:20+00:00 app[web.1]: Rendered events/show.html.erb within layouts/application (1.5ms)
+2011-05-02T04:43:20+00:00 app[web.1]: Completed 200 OK in 3ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+2011-05-02T04:43:20+00:00 app[web.1]: 
+2011-05-02T04:43:20+00:00 app[web.1]: 
+2011-05-02T04:43:20+00:00 app[web.1]: Started GET "/events/30.xml?usecache=true" for 69.181.220.119 at Sun May 01 21:43:20 -0700 2011
+2011-05-02T04:43:20+00:00 app[web.1]:   Processing by EventsController#show as XML
+2011-05-02T04:43:20+00:00 app[web.1]:   Parameters: {"id"=>"30", "usecache"=>"true"}
+2011-05-02T04:43:20+00:00 heroku[router]: GET floating-light-385.heroku.com/events/20.json dyno=web.1 queue=0 wait=0ms service=3ms bytes=522
+2011-05-02T04:43:20+00:00 heroku[router]: GET floating-light-385.heroku.com/events/30.xml dyno=web.1 queue=0 wait=0ms service=7ms bytes=711
+2011-05-02T04:43:20+00:00 heroku[router]: GET floating-light-385.heroku.com/events/20.json dyno=web.1 queue=0 wait=4ms service=6ms bytes=522
+2011-05-02T04:43:20+00:00 app[web.1]: Completed 200 OK in 2ms (Views: 1.3ms | ActiveRecord: 0.0ms)
+2011-05-02T04:43:20+00:00 app[web.1]: 
+2011-05-02T04:43:20+00:00 app[web.1]: 
+2011-05-02T04:43:20+00:00 app[web.1]: Started GET "/events/20.json?usecache=true" for 69.181.220.119 at Sun May 01 21:43:20 -0700 2011
+2011-05-02T04:43:20+00:00 app[web.1]:   Processing by EventsController#show as JSON
+2011-05-02T04:43:20+00:00 app[web.1]:   Parameters: {"id"=>"20", "usecache"=>"true"}
+2011-05-02T04:43:20+00:00 app[web.1]: Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+2011-05-02T04:43:20+00:00 app[web.1]: 
+2011-05-02T04:43:20+00:00 app[web.1]: 
+2011-05-02T04:43:20+00:00 app[web.1]: Started GET "/events/20.json?usecache=true" for 69.181.220.119 at Sun May 01 21:43:20 -0700 2011
+2011-05-02T04:43:20+00:00 app[web.1]: Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+2011-05-02T04:43:20+00:00 app[web.1]: 
+2011-05-02T04:43:20+00:00 app[web.1]: 
+2011-05-02T04:43:20+00:00 app[web.1]: Started GET "/events.json?usecache=true" for 69.181.220.119 at Sun May 01 21:43:20 -0700 2011
+2011-05-02T04:43:20+00:00 app[web.1]:   Processing by EventsController#index as JSON
+2011-05-02T04:43:20+00:00 app[web.1]:   Parameters: {"usecache"=>"true"}
+2011-05-02T04:43:20+00:00 app[web.1]: Completed 200 OK in 173ms (Views: 169.4ms | ActiveRecord: 0.0ms)
+2011-05-02T04:43:20+00:00 app[web.1]: 
+2011-05-02T04:43:20+00:00 app[web.1]: 
+2011-05-02T04:43:20+00:00 app[web.1]: Started GET "/events/30.xml?usecache=true" for 69.181.220.119 at Sun May 01 21:43:20 -0700 2011
+2011-05-02T04:43:20+00:00 app[web.1]:   Processing by EventsController#show as XML
+2011-05-02T04:43:20+00:00 app[web.1]:   Parameters: {"id"=>"30", "usecache"=>"true"}
+2011-05-02T04:43:20+00:00 app[web.1]: Completed 200 OK in 2ms (Views: 1.4ms | ActiveRecord: 0.0ms)
+2011-05-02T04:43:20+00:00 heroku[router]: GET floating-light-385.heroku.com/events.json dyno=web.1 queue=0 wait=0ms service=180ms bytes=58466
+2011-05-02T04:43:20+00:00 app[web.1]: 
+2011-05-02T04:43:20+00:00 app[web.1]: 
+2011-05-02T04:43:20+00:00 app[web.1]: Started GET "/events/30.xml?usecache=true" for 69.181.220.119 at Sun May 01 21:43:20 -0700 2011
+2011-05-02T04:43:20+00:00 app[web.1]:   Processing by EventsController#show as XML
+2011-05-02T04:43:20+00:00 app[web.1]:   Parameters: {"id"=>"30", "usecache"=>"true"}
+2011-05-02T04:43:20+00:00 app[web.1]: Completed 200 OK in 2ms (Views: 1.2ms | ActiveRecord: 0.0ms)
+2011-05-02T04:43:20+00:00 heroku[router]: GET floating-light-385.heroku.com/events/30.xml dyno=web.1 queue=0 wait=0ms service=4ms bytes=711
+2011-05-02T04:43:20+00:00 heroku[router]: GET floating-light-385.heroku.com/events/30.xml dyno=web.1 queue=0 wait=0ms service=167ms bytes=711
+2011-05-02T04:43:20+00:00 app[web.1]: 
+2011-05-02T04:43:20+00:00 app[web.1]: 
+2011-05-02T04:43:20+00:00 app[web.1]: Started GET "/events.json?usecache=true" for 69.181.220.119 at Sun May 01 21:43:20 -0700 2011
+2011-05-02T04:43:20+00:00 app[web.1]:   Processing by EventsController#index as JSON
+2011-05-02T04:43:20+00:00 app[web.1]:   Parameters: {"usecache"=>"true"}
+2011-05-02T04:43:20+00:00 app[web.1]: Completed 200 OK in 127ms (Views: 124.3ms | ActiveRecord: 0.0ms)
+2011-05-02T04:43:20+00:00 app[web.1]: 
+2011-05-02T04:43:20+00:00 app[web.1]: 
+2011-05-02T04:43:20+00:00 app[web.1]: Started GET "/events.json?usecache=true" for 69.181.220.119 at Sun May 01 21:43:20 -0700 2011
+2011-05-02T04:43:20+00:00 app[web.1]:   Processing by EventsController#index as JSON
+2011-05-02T04:43:20+00:00 app[web.1]:   Parameters: {"usecache"=>"true"}
+2011-05-02T04:43:20+00:00 app[web.1]: Completed 200 OK in 179ms (Views: 175.7ms | ActiveRecord: 0.0ms)
+2011-05-02T04:43:20+00:00 heroku[router]: GET floating-light-385.heroku.com/events.json dyno=web.1 queue=0 wait=0ms service=292ms bytes=58466
+2011-05-02T04:43:20+00:00 heroku[router]: GET floating-light-385.heroku.com/events.json dyno=web.1 queue=0 wait=0ms service=339ms bytes=58466

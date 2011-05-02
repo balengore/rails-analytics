@@ -3,7 +3,8 @@ class Event < ActiveRecord::Base
   after_save :cache_event
 
   def cache_event
-    Rails.cache.write("event_#{self.id}",self)
+    Rails.cache.write("event_#{self.id}", self)
+    Rails.cache.write("event_all", all) 
   end
 
   #On finds, check the cache first, and insert if not present
@@ -13,6 +14,6 @@ class Event < ActiveRecord::Base
 
   #Check the cache for Event.all, and insert it if not present
   def self.all_cached
-    Rails.cache.fetch('event_all') { all }
+    Rails.cache.fetch("event_all") { all }
   end
 end
