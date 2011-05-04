@@ -1,26 +1,26 @@
 class EventsController < ApplicationController
   
-  # find event using db
+  # Find event using db
   def find_event
     @event = Event.find(params[:id])
   end
 
-  # get all events using db
+  # Get all events using db
   def get_all_events
     @events = Event.all
   end 
 
-  # get event from cache
+  # Get event from cache
   def find_event_cached
     @event = Event.find_cached(params[:id])
   end
 
-  # get all events from cache
+  # Get all events from cache
   def get_all_events_cached
     @events = Event.all_cached
   end
 
-  # check whether to use cache or db for find
+  # Check whether to use cache or db for find
   def check_cache_param_find
     if params[:usecache] == "true" 
       find_event_cached
@@ -29,13 +29,18 @@ class EventsController < ApplicationController
     end
   end
 
-  # check whether to use cache or db for Event.all
+  # Check whether to use cache or db for Event.all
   def check_cache_param_all
     if params[:usecache] == "true" 
       get_all_events_cached
     else
       get_all_events
     end
+  end
+
+  # Collect the user's ip address when saving Events 
+  def save_ip
+    params[:event][:ip] = request.remote_ip
   end
 
   # GET /events
@@ -82,6 +87,7 @@ class EventsController < ApplicationController
   # POST /events
   # POST /events.xml
   def create
+    save_ip
     @event = Event.new(params[:event])
 
     respond_to do |format|
@@ -100,6 +106,7 @@ class EventsController < ApplicationController
   # PUT /events/1
   # PUT /events/1.xml
   def update
+    save_ip
     check_cache_param_find
 
     respond_to do |format|

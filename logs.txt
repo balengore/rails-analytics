@@ -1,13 +1,3 @@
-2011-05-02T05:22:25+00:00 app[web.1]: Completed 200 OK in 210ms (Views: 194.8ms | ActiveRecord: 6.5ms)
-2011-05-02T05:22:25+00:00 app[web.1]: 
-2011-05-02T05:22:25+00:00 app[web.1]: 
-2011-05-02T05:22:25+00:00 app[web.1]: Started GET "/events.xml?usecache=false" for 69.181.220.119 at Sun May 01 22:22:25 -0700 2011
-2011-05-02T05:22:25+00:00 app[web.1]:   Processing by EventsController#index as XML
-2011-05-02T05:22:25+00:00 app[web.1]:   Parameters: {"usecache"=>"false"}
-2011-05-02T05:22:26+00:00 app[web.1]: Completed 200 OK in 414ms (Views: 398.5ms | ActiveRecord: 6.4ms)
-2011-05-02T05:22:26+00:00 app[web.1]: 
-2011-05-02T05:22:26+00:00 app[web.1]: 
-2011-05-02T05:22:26+00:00 app[web.1]: Started GET "/events.json?usecache=false" for 69.181.220.119 at Sun May 01 22:22:26 -0700 2011
 2011-05-02T05:22:26+00:00 app[web.1]:   Processing by EventsController#index as JSON
 2011-05-02T05:22:26+00:00 app[web.1]:   Parameters: {"usecache"=>"false"}
 2011-05-02T05:22:26+00:00 app[web.1]: Completed 200 OK in 180ms (Views: 124.8ms | ActiveRecord: 45.6ms)
@@ -498,3 +488,13 @@
 2011-05-02T05:39:11+00:00 app[web.1]: 
 2011-05-02T05:39:11+00:00 heroku[router]: POST floating-light-385.heroku.com/events dyno=web.1 queue=0 wait=0ms service=84ms bytes=934
 2011-05-02T05:39:11+00:00 heroku[router]: GET floating-light-385.heroku.com/favicon.ico dyno=web.1 queue=0 wait=0ms service=3ms bytes=225
+2011-05-01T22:41:50-07:00 heroku[slugc]: Slug compilation started
+2011-05-01T22:41:54-07:00 heroku[api]: Deploy 863905b by balengore@gmail.com
+2011-05-01T22:41:55-07:00 heroku[web.1]: State changed from up to bouncing
+2011-05-01T22:41:55-07:00 heroku[web.1]: State changed from created to starting
+2011-05-01T22:41:55-07:00 heroku[slugc]: Slug compilation finished
+2011-05-02T05:41:56+00:00 app[web.1]: >> Stopping ...
+2011-05-02T05:41:58+00:00 app[web.1]: >> Thin web server (v1.2.6 codename Crazy Delicious)
+2011-05-02T05:41:58+00:00 app[web.1]: >> Maximum connections set to 1024
+2011-05-02T05:41:58+00:00 app[web.1]: >> Listening on 0.0.0.0:52607, CTRL+C to stop
+2011-05-01T22:41:59-07:00 heroku[web.1]: State changed from starting to up
