@@ -1,5 +1,4 @@
 class EventsController < ApplicationController
-  
   # Find event using db
   def find_event
     @event = Event.find(params[:id])
@@ -41,6 +40,23 @@ class EventsController < ApplicationController
   # Collect the user's ip address when saving Events 
   def save_ip
     params[:event][:ip] = request.remote_ip
+  end
+
+  # GET /events/recent/100.json
+  # GET /events/recent/100.xml
+  def recent
+    @events = Event.where("id > ?", params[:last])
+
+    respond_to do |format|
+      format.xml  { render :xml => @events }
+      format.json { render :json => @events }
+    end
+    
+  end
+
+  # GET /events/watchrecent/
+  def watchrecent
+    @eventCount = Event.count
   end
 
   # GET /events

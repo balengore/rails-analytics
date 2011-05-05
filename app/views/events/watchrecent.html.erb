@@ -1,0 +1,8 @@
+Watch the events happen! Current total # of events: <b><span id="total"><%= @eventCount %></span></b><br/><br/>
+
+<script type="text/javascript">
+  var intervalID;
+  var currentDivs = new Array();
+  var eventCount = <%= @eventCount - 1 %>;
+  window.onload = startPolling;
+</script>

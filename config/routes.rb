@@ -1,4 +1,6 @@
 Analytics::Application.routes.draw do
+  match 'events/recent/:last' => 'events#recent'
+  match 'events/watchrecent' => 'events#watchrecent'
   resources :events
 
   get "home/index"
