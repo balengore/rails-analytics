@@ -56,7 +56,7 @@ class EventsController < ApplicationController
 
   # GET /events/watchrecent/
   def watchrecent
-    @eventCount = Event.count
+    @eventCount = Event.maximum("id")
   end
 
   # GET /events
